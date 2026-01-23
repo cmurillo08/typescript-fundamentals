@@ -1,0 +1,15 @@
+{
+  "name": "Scrim-s06citd",
+  "description": "https://scrimba.com/learn-typescript-c03c/~07",
+  "type": "module",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "latest"
+  },
+  "devDependencies": {}
+}
